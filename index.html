@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GMT Watch List</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <main class="container">
+
+        <header class="header">
+            <h1>GMT Watch List</h1>
+
+            <p class="intro">
+                This page provides a searchable and filterable GMT Watch List.
+            </p>
+        </header>
+
+        <section class="controls">
+
+            <input
+                type="search"
+                id="searchInput"
+                placeholder="Search..."
+                aria-label="Search table"
+            >
+
+        </section>
+
+        <section class="table-wrapper">
+
+            <table id="dataTable">
+                <thead></thead>
+                <tbody></tbody>
+            </table>
+
+        </section>
+
+        <footer class="footer">
+            <p>
+                Static site hosted with <a href="https://github.com/28800/watch-list">Github Pages</a>. 
+            </p>
+        </footer>
+
+    </main>
+
+    <script src="app.js"></script>
+
+</body>
+</html>
