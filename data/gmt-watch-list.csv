@@ -1,11 +1,12 @@
-Brand, Model, Caliber, Case Ø [mm], Link, Price, Notes
-AKRONE, C-03 GMT, Miyota 9075, 42, https://akrone.fr/en/products/c-03-gmt-jaune, 800€, 60 click bezel; military style
-Certina, DS Action GMT, POWERMATIC 80 GMT (ETA C07), 41, https://www.certina.com/en/watch/ds-action-gmt-powermatic-80/c0329291104101, 1000€, 120 click bezel; 4 different colors
-Citizen, 880 GMT, Citizen 9054, 41, https://www.citizenwatch-global.com/series8/lineup/cal9054-gmt/index.html, 880€, 48 click bezel; multiple colors available; 13.5 mm thick
-echo neutra, 1956 GMT, Sellita SW330, 40, https://echoneutra.com/de/collections/1956-gmt, 1300€, 48 click bezel; 3 different colors
-Jack Mason, Strat-o-timer GMT, Miyota 9075, 40, https://jackmasonbrand.com/products/strat-o-timer-gmt-americana-ceramic, 989€, 48 click bezel; multiple colors available; 13.2 mm thick
-Mido, Ocean Star GMT, POWERMATIC 80 GMT (ETA C07), 40.5, https://www.midowatches.com/de/ocean-star-gmt-m0268291804100.html, 1440€, 72 click bezel; 13.4 mm thick
-Tissot, Seastar 1000 GMT, Swiss quartz, 40, https://www.tissotwatches.com/de-de/T1208521705100.html, 525€, multiple colors available; 120 click bezel; 11.77 mm thick
-Tissot, Seastar 1000 GMT, POWERMATIC 80 GMT (ETA C07), 40, https://www.tissotwatches.com/en-us/T1204291105101.html, 1375$, multiple colors available; 120 click bezel; 15.40 mm thick
-Vaer, G5, Miyota 9075, 39/42, https://www.vaerwatches.com/products/g5-pacific-steel-39mm-usa-gmt, 935$, 120 click bezel; 13.06 mm thick
-Vaer, G2, Swiss quartz, 39/42, https://www.vaerwatches.com/products/g2-meridian-steel-39mm-usa-gmt, 399$, 120 click bezel; 10.08 mm thick
+Brand, Model, Caliber, Case Ø [mm], Height [mm], Link, Price, Notes
+AKRONE, C-03 GMT, Miyota 9075, 42, 12.90, https://akrone.fr/en/products/c-03-gmt-jaune, 800€, 60 click bezel; military style
+Certina, DS Action GMT, POWERMATIC 80 GMT (ETA C07), 41, 13.80, https://www.certina.com/en/watch/ds-action-gmt-powermatic-80/c0329291104101, 1000€, 120 click bezel; 4 different colors
+Citizen, 880 GMT, Citizen 9054, 41, 13.5, https://www.citizenwatch-global.com/series8/lineup/cal9054-gmt/index.html, 880€, 48 click bezel; multiple colors available
+echo neutra, 1956 GMT, Sellita SW330, 40, 11.9, https://echoneutra.com/de/collections/1956-gmt, 1300€, 48 click bezel; 3 different colors
+Jack Mason, Strat-o-timer GMT, Miyota 9075, 40, 13.2, https://jackmasonbrand.com/products/strat-o-timer-gmt-americana-ceramic, 989€, 48 click bezel; multiple colors available
+Mido, Ocean Star GMT, POWERMATIC 80 GMT (ETA C07), 40.5, 13.5, https://www.midowatches.com/de/ocean-star-gmt-m0268291804100.html, 1440€, 72 click bezel
+Timex, Expedition GMT Titan, Seiko NH34A, 41, 13.3, https://timex.com/products/expedition-pioneer-titanium-automatic-gmt-41mm-silicone-strap-watch-tw2w53000, 625$, 120 click bezel; multiple colors available
+Tissot, Seastar 1000 GMT, Swiss quartz, 40, 11.77, https://www.tissotwatches.com/de-de/T1208521705100.html, 525€, multiple colors available; 120 click bezel
+Tissot, Seastar 1000 GMT, POWERMATIC 80 GMT (ETA C07), 40, 15.40, https://www.tissotwatches.com/en-us/T1204291105101.html, 1375$, multiple colors available; 120 click bezel
+Vaer, G5, Miyota 9075, 39/42, 13.06, https://www.vaerwatches.com/products/g5-pacific-steel-39mm-usa-gmt, 935$, 120 click bezel
+Vaer, G2, Swiss quartz, 39/42, 10.08, https://www.vaerwatches.com/products/g2-meridian-steel-39mm-usa-gmt, 399$, 120 click bezel
