@@ -18,10 +18,4 @@ The list should be easy to maintain and update. Following criteria are important
 
 Contributions are more than welcome, simply create an issue or even a pull request.
 
-## Attributions
-
-Many thanks go out to following awesome resources:
-
-* [List of Microbrand Automatic GMT watch models - An overview by kampfwuffi](https://www.reddit.com/r/MicrobrandWatches/comments/1mo4tgs/list_of_microbrand_automatic_gmt_watch_models_an/)
-
 
