@@ -185,7 +185,7 @@ function renderTable(headers, rows, thead, tbody) {
                 const a = document.createElement("a");
 
                 a.href = url;
-                a.textContent = "link";
+                a.textContent = "Link";
 
                 a.target = "_blank";
                 a.rel = "noopener noreferrer";
