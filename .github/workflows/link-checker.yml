@@ -29,4 +29,5 @@ jobs:
             --no-progress
             --accept 200,429
             --timeout 20
+            --dump
             .
