@@ -26,5 +26,10 @@ jobs:
         with:
           args: >
             --verbose
-            --timeout 200
+            --dump
+            --dump-inputs
+            --no-progress
+            --accept 200,429
+            --exclude-path .lycheeignore
+            --glob '**/*.csv'
             .
