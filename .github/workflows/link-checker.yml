@@ -20,19 +20,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd
 
-      - name: Convert CSV to JSON (Python)
-        run: |
-          find . -name "*.csv" -type f | while read -r file; do
-            echo "Converting $file..."
-            python3 -c "
-import csv, json
-with open('$file', mode='r', encoding='utf-8') as f:
-    reader = csv.DictReader(f)
-    data = [row for row in reader]
-with open('${file%.csv}.json', mode='w', encoding='utf-8') as f:
-    json.dump(data, f, indent=4)
-            "
-          done
+      - name: Convert CSVs to JSON
+        run: python3 convert_csv.py
 
       - name: Check links
         uses: lycheeverse/lychee-action@8646ba30535128ac92d33dfc9133794bfdd9b411
