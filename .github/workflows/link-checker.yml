@@ -26,8 +26,5 @@ jobs:
         with:
           args: >
             --verbose
-            --no-progress
-            --accept 200,429
-            --timeout 20
-            --dump
+            --timeout 200
             .
