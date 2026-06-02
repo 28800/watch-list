@@ -1,19 +1,19 @@
-Brand, Model, Caliber, Case Ø [mm], Height [mm], Clicks, Link, Price, Notes
-Christopher Ward, C65 Aquitaine GMT, Sellita SW330, 41, 12.7, 120,https://www.christopherward.com/c65-aquitaine-gmt/C65-41AGM2-S0KK1-B0.html, >1655€, above prize limit
-Davos, Ternos Pro GMT, 	DAV3032 (Sellita base), 42, 14, 60,https://www.davosa.com/en-eu/collections/ternos-pro-gmt, 1590€, unidirectional bezel; above prize limit, very homagey
-Islander, Automatic GMT, Seiko NH34A, 42,14,??,https://longislandwatch.com/islander-automatic-gmt-dive-watch-with-blue-waffle-dial-isl-214/, 369$, many colors available; clicks unknown
-Glycine, Airman The Chief, Sellita SW330, 40, 12, n/a, https://www.glycinewatches.com/collections/airman, 2400€, friction bezel (i.e. no clicks at all); actually the god father of GMT watches; a lot of variations (incl. quartz, sizes, colors, etc.) 
-Hamilton, Khaki Navy Scuba GMT, H-14 (ETA C07), 43, 13.9, 60,https://www.hamiltonwatch.com/it-it/h82555150-khaki-navy-scuba-gmt-auto.html, 1445€, available in bronze; unidirectional bezel
-Maen, HUDSON 38 GMT MKII, Sellita SW330, 38, 11, 60,https://www.maenwatches.com/collections/hudson-38-gmt-mkii, 1249€, only available for preorder
-Magrette, Moana Pacific Waterman GMT, Miyota 9075, 40, 14, 120,https://magrette.com/shop/moana-pacific-waterman-gmt-titanium-2, 730$, unidirectional bezel; many colors available;
-Marloe, GMT Collection, Miyota 9075, 42, 10.95, 48,https://www.marloewatchcompany.com/collections/gmt, 950€, no more available
-Oak & Oscar, Humboldt GMT, Sellita SW330, 40, 12.5, 120, https://oakandoscar.com/pages/the-humboldt-gmt, >1.800€, above prize limit
-Seestern, S420, Seiko NH34A, 40,12,120,https://seesternwatches.com/shop/ols/products/s420-2-pepsi, 379€, very homagey; a lot of variations available
-Seiko, Seiko 5 Automatic GMT, Seiko NH34A, 42.5,13.56,n/a,https://www.seikoboutique.eu/it/en/search?controller=search&s=GMT, >470€, many colors available; friction bezel (i.e. no clicks at all)
-Serket, Blackpool GMT, Seiko NH34A, 40,11.50,90,https://serketwatch.com/collections/blackpool-gmt-collection-automatic-gmt-function-watches, 293€, unidirectional bezel
-Signum, Cuda Titanium GMT, Seiko NH34A, 42.50,13.40,120,https://www.signumwatches.com/products/signum-cuda-titanium-gmt-full-lume-collection, 499$, unidirectional bezel
-Steinhart, Ocean One GMT, Sellita SW330, 42, 13, 120,https://www.steinhartwatches.de/en/catalogsearch/result/?q=gmt, >710€, unidirectional bezel
-Timex, Q Timex GMT, Timex Quartz, 38, 12.5,n/a, https://timex.eu/products/q-timex-gmt-38mm-stainless-steel-bracelet-watch-tw2v38000, 249€, friction bezel (i.e. no clicks at all); multiple colors available
-Vesuviate, Volare GMT, Seiko NH34A, 41,13.7,120,https://vesuviate.com/product-category/volare/, 425$, unidirectional bezel; a lot of colors
-Winfield, Oconus GMT, Miyota 9075, 44, 13.50, 120,https://winfieldwatch.com/products/oconus-gmt-pvd, 583€, unidirectional bezel,
-Zelos, 	Horizons GMT, ETA 2893, 40, 11, 48,https://zeloswatches.com/collections/horizons-gmt, 899$, currently unavailable (just like other models)
+Brand, Model, Caliber, Case Ø [mm], Height [mm], Clicks, 24h Chapter Ring, Link, Price, Notes
+Christopher Ward, C65 Aquitaine GMT, Sellita SW330, 41, 12.7, 120,,https://www.christopherward.com/c65-aquitaine-gmt/C65-41AGM2-S0KK1-B0.html, >1655€, above prize limit
+Davos, Ternos Pro GMT, 	DAV3032 (Sellita base), 42, 14, 60,,https://www.davosa.com/en-eu/collections/ternos-pro-gmt, 1590€, unidirectional bezel; above prize limit, very homagey
+Islander, Automatic GMT, Seiko NH34A, 42,14,??,x,https://longislandwatch.com/islander-automatic-gmt-dive-watch-with-blue-waffle-dial-isl-214/, 369$, many colors available; clicks unknown
+Glycine, Airman The Chief, Sellita SW330, 40, 12, n/a,, https://www.glycinewatches.com/collections/airman, 2400€, friction bezel (i.e. no clicks at all); actually the god father of GMT watches; a lot of variations (incl. quartz, sizes, colors, etc.) 
+Hamilton, Khaki Navy Scuba GMT, H-14 (ETA C07), 43, 13.9, 60,,https://www.hamiltonwatch.com/it-it/h82555150-khaki-navy-scuba-gmt-auto.html, 1445€, available in bronze; unidirectional bezel
+Maen, HUDSON 38 GMT MKII, Sellita SW330, 38, 11, 60,x,https://www.maenwatches.com/collections/hudson-38-gmt-mkii, 1249€, only available for preorder
+Magrette, Moana Pacific Waterman GMT, Miyota 9075, 40, 14, 120,,https://magrette.com/shop/moana-pacific-waterman-gmt-titanium-2, 730$, unidirectional bezel; many colors available;
+Marloe, GMT Collection, Miyota 9075, 42, 10.95, 48,x,https://www.marloewatchcompany.com/collections/gmt, 950€, no more available
+Oak & Oscar, Humboldt GMT, Sellita SW330, 40, 12.5, 120,x, https://oakandoscar.com/pages/the-humboldt-gmt, >1.800€, above prize limit
+Seestern, S420, Seiko NH34A, 40,12,120,,https://seesternwatches.com/shop/ols/products/s420-2-pepsi, 379€, very homagey; a lot of variations available
+Seiko, Seiko 5 Automatic GMT, Seiko NH34A, 42.5,13.56,n/a,x,https://www.seikoboutique.eu/it/en/search?controller=search&s=GMT, >470€, many colors available; friction bezel (i.e. no clicks at all)
+Serket, Blackpool GMT, Seiko NH34A, 40,11.50,90,,https://serketwatch.com/collections/blackpool-gmt-collection-automatic-gmt-function-watches, 293€, unidirectional bezel
+Signum, Cuda Titanium GMT, Seiko NH34A, 42.50,13.40,120,,https://www.signumwatches.com/products/signum-cuda-titanium-gmt-full-lume-collection, 499$, unidirectional bezel
+Steinhart, Ocean One GMT, Sellita SW330, 42, 13, 120,,https://www.steinhartwatches.de/en/catalogsearch/result/?q=gmt, >710€, unidirectional bezel
+Timex, Q Timex GMT, Timex Quartz, 38, 12.5,n/a,, https://timex.eu/products/q-timex-gmt-38mm-stainless-steel-bracelet-watch-tw2v38000, 249€, friction bezel (i.e. no clicks at all); multiple colors available
+Vesuviate, Volare GMT, Seiko NH34A, 41,13.7,120,x, https://vesuviate.com/product-category/volare/, 425$, unidirectional bezel; a lot of colors
+Winfield, Oconus GMT, Miyota 9075, 44, 13.50, 120,, https://winfieldwatch.com/products/oconus-gmt-pvd, 583€, unidirectional bezel,
+Zelos, 	Horizons GMT, ETA 2893, 40, 11, 48,, https://zeloswatches.com/collections/horizons-gmt, 899$, currently unavailable (just like other models)
